@@ -1,2 +1,3 @@
 SpeechRecognition==3.8.1
 vosk== 0.3.32
+pyAudio==0.2.11
